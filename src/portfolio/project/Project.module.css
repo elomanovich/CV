@@ -1,0 +1,21 @@
+.project {
+    width: 250px;
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.picture {
+    width: 250px;
+    height: 250px;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.description {
+    width: 250px;
+
+}

@@ -1,0 +1,19 @@
+.portfolioBlock {
+    height: 100vh;
+    background-color:darkseagreen ;
+}
+.portfolioContainer {
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.project {
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.title {
+    background-color: azure;
+}
