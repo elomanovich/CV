@@ -2,19 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="394d0ef3-1196-40b8-9349-5bf014f93608" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/portfolio/Portfolio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/portfolio/Portfolio.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/portfolio/project/Project.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/portfolio/project/Project.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contatcs/ContactForm/ContactForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contatcs/ContactForm/contactForm.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contatcs/Contatcs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contatcs/contacts.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/portfolio/Portfolio.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/portfolio/Portfolio.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skills/skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/skills/skills.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,8 +52,11 @@
       <recent name="$PROJECT_DIR$/src/skills/skill" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/contatcs/ContactForm" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.deploy">
     <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -80,7 +92,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1645119390612</updated>
-      <workItem from="1645119393937" duration="14826000" />
+      <workItem from="1645119393937" duration="14909000" />
+      <workItem from="1648482979810" duration="16000" />
+      <workItem from="1660224399530" duration="5921000" />
     </task>
     <task id="LOCAL-00001" summary="refactor">
       <created>1645132082631</created>
@@ -96,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645132302366</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added block portfolio">
+      <created>1645462669153</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645462669153</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +126,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refactor" />
     <MESSAGE value="added .idea in .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="added .idea in .gitignore" />
+    <MESSAGE value="added block portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="added block portfolio" />
   </component>
 </project>
